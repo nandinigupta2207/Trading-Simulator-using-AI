@@ -13,4 +13,9 @@ User-Friendly Output: Display results in a clear and concise format for easy ana
 Python 3.x
 Required libraries: pandas, numpy, scikit-learn, and matplotlib (if you wish to visualize results).
 
+## Dataset
+The dataset contains a total of 25,161 rows, each row representing the stock market data for a specific company on a given date. The information collected through web scraping from www.nasdaq.com includes the stock prices and trading volumes for the companies listed, such as Apple, Starbucks, Microsoft, Cisco Systems, Qualcomm, Meta, Amazon.com, Tesla, Advanced Micro Devices, and Netflix.
+
+https://www.kaggle.com/datasets/khushipitroda/stock-market-historical-data-of-top-10-companies
+
 
